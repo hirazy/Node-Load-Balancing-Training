@@ -1,0 +1,15 @@
+Load Balancer
+
+Transaction time, Request Time
+
+Internal: Chia process chinh thanh cac process con
+
+Network Load Balancer
+
+Round Routine
+
+Latest Round Routine => NPM Ping Latest Servers countRequest
+
+Weight Routine Log lai => NPM Ping Latest Servers Check Alive
+
+Source => IP Client, IP Sever => Hash Key
